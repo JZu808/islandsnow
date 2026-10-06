@@ -1,0 +1,7 @@
+/* Island Snow overrides — loaded after Bootstrap */
+
+/* Keep the menubar links looking like plain dark text instead of blue links */
+.navbar a {
+  color: inherit;
+  text-decoration: none;
+}
